@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Beki!
 
 [![Twitter: Bekiopia](https://img.shields.io/twitter/follow/bekiopia?style=social)](https://twitter.com/bekiopia)
-[![Linkedin: bereket-retta](https://img.shields.io/badge/-Kalkidan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bereket-retta/)](https://www.linkedin.com/in/bereket-retta/)
+[![Linkedin: bereket-retta](https://img.shields.io/badge/-Bereket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bereket-retta/)](https://www.linkedin.com/in/bereket-retta/)
 [![GitHub BereketRetta](https://img.shields.io/github/followers/bereketretta?label=follow&style=social)](https://github.com/bereketretta)
 <!--
 **bereketretta/bereketretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
