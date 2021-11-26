@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ### Technologies and Tool ⚙️ 🖥
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
 
 <a href="https://github.com/bereketretta"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bereketretta&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 
