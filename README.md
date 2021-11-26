@@ -1,4 +1,4 @@
-### Hi there 👋, it's Bereket Retta!
+### Hi there 👋, it's Beki!
 
 <!--
 **BereketRetta/BereketRetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
