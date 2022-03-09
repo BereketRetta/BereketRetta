@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![NodeJs](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node-%23CC342D.svg?style=for-the-badge&logo=node&logoColor=white)
 ## Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
