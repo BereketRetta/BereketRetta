@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to collaborate on any project.
 - 💬 Ask me about anything 
 
-### Languages 💻 🌐
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScrip)
-![NodeJs](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-## Frameworks and Libraries I use
+## Languages 
+![!JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![NodeJs](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+## Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Ruby-on-Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-## Tools I use
+## Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
