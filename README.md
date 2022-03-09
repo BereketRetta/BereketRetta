@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 ![Bereket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BereketRetta&show_icons=true&locale=en&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BereketRetta&show_icons=true&locale=en&layout=compact&theme=dark)
-<a href="https://github.com/bereketretta"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bereketretta&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 
 
 
