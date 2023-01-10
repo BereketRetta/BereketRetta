@@ -1,4 +1,4 @@
-### Hi there 👋, I am Beki!
+### Hi there 👋, I am Bereket!
 
 [![Twitter: Bekiopia](https://img.shields.io/twitter/follow/bekiopia?style=social)](https://twitter.com/bekiopia)
 [![Linkedin: bereket-retta](https://img.shields.io/badge/-Bereket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bereket-retta/)](https://www.linkedin.com/in/bereket-retta/)
