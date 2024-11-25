@@ -8,12 +8,14 @@
 
 Here are some ideas to get you started:
 -->
-- 😄 I’m Software Engineer
-- 🔭 I’m currently working on cross-platform mobile app development
+- 😄 I’m Software/ML Engineer
+- 🔭 I’m currently working on ML and AI models, specializing in healthcare applications
 - 🤔 I’m looking to collaborate on any project.
 - 💬 Ask me about anything 
+https://img.shields.io/badge/python
 
 ## Languages 
+![!Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![!JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,6 +23,7 @@ Here are some ideas to get you started:
 ![NodeJs](https://img.shields.io/badge/nodejs-%231572B6.svg?style=for-the-badge&logo=node&logoColor=white)
 ## Frameworks and Libraries
 
+![PyTorch](https://img.shields.io/badge/pytorch-%2320232a.svg?style=for-the-badge&logo=pytorch&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,12 +39,3 @@ Here are some ideas to get you started:
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-## My Stats
-
-![Bereket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BereketRetta&show_icons=true&locale=en&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BereketRetta&show_icons=true&locale=en&layout=compact&theme=dark)
-
-
-
-![](https://komarev.com/ghpvc/?username=bereketretta)
