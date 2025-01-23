@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ML and AI models, specializing in healthcare applications
 - 🤔 I’m looking to collaborate on any project.
 - 💬 Ask me about anything 
-https://img.shields.io/badge/python
 
 ## Languages 
 ![!Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
